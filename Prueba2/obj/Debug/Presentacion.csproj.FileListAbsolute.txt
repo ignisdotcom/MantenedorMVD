@@ -1,0 +1,18 @@
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Prueba2.dll
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Prueba2.pdb
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Negocio.dll
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Datos.dll
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Negocio.pdb
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\bin\Datos.pdb
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\obj\Debug\Prueba2.dll
+C:\Users\Javier Ignacio\Documents\Visual Studio 2010\Projects\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Prueba2.dll
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Prueba2.pdb
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Negocio.dll
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Datos.dll
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Negocio.pdb
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\bin\Datos.pdb
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\obj\Debug\Prueba2.dll
+C:\Users\Javier Ignacio\Downloads\Prueba2 (1)\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
